@@ -1,0 +1,10 @@
+/mnt/dataset/000/000_0.bmp
+/mnt/dataset/000/000_1.bmp
+/mnt/dataset/000/000_2.bmp
+/mnt/dataset/000/000_3.bmp
+/mnt/dataset/000/000_4.bmp
+/mnt/dataset/001/001_0.bmp
+/mnt/dataset/001/001_1.bmp
+/mnt/dataset/001/001_2.bmp
+/mnt/dataset/001/001_3.bmp
+/mnt/dataset/001/001_4.bmp
