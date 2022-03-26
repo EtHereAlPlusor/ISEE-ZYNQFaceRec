@@ -1,0 +1,1 @@
+项目当中用到了Shi Qiyu老师的libfacedection神经网络，需要将它的源码打包成动态库文件后才能使用。源码地址：https://github.com/ShiqiYu/libfacedetection
